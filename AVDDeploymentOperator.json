@@ -20,6 +20,7 @@
           "Microsoft.Network/networkInterfaces/*",
           "Microsoft.Network/publicIPAddresses/*",
           "Microsoft.Network/virtualNetworks/subnets/read",
+          "Microsoft.Network/virtualNetworks/subnets/join/action",
           "Microsoft.Network/virtualNetworks/read",
           "Microsoft.Network/networkSecurityGroups/*",
           "Microsoft.Network/loadBalancers/*",
